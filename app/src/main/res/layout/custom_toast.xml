@@ -10,7 +10,9 @@
         android:id="@+id/custom_toast_image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:contentDescription="Hello world" />
+        android:contentDescription="Hello world"
+        android:src="@drawable/ic_baseline_sentiment_satisfied_alt_24"
+        />
 
     <TextView
         android:id="@+id/custom_toast_message"

@@ -6,5 +6,5 @@
     <string name="div">/</string>
     <string name="num1">Number 1</string>
     <string name="num2">Number 2</string>
-    <string name="cusToast">Custom Toast</string>
+    <string name="cusToast">"Let's Calculate"</string>
 </resources>
